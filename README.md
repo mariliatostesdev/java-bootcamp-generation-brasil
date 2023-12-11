@@ -16,6 +16,7 @@ Esses exercícios fazem parte do processo de aprendizado em programação Java, 
 - **Operadores:** `aritméticos`, `unários`, `relacionais` e `lógicos`.
 - **Laços Condicionais:** `if-else`, `while`, `do-while`.
 - **Laços de Repetição:** `for` e `switch-case`.
+- **Arrays:** `vetores` e `matrizes`.
 
 ## Projetos do Repositório
 
@@ -32,6 +33,7 @@ Esses exercícios fazem parte do processo de aprendizado em programação Java, 
 - **Calculadora de Reajuste de Salário:** Realiza reajustes nos salários de colaboradores e executa operações bancárias simples.
 - **Verificação de Aptidão para Doar Sangue:** Avalia se uma pessoa é apta para doar sangue.
 - **Filtro de Animais:** Filtra animais com base em um organograma.
+- **Manipulação de Arrays:** `ordenação com .sort`, `busca de valor em vetor`, `transformação de matriz em vetor`.
 
 ## Contato
 
