@@ -19,12 +19,15 @@ public class H_1Vetores1 {
 		Arrays.sort(vetorNum);
 
 		System.out.println("\nDigite um número inteiro para verificar sua posição no Array.");
-		numEscolhido = input.nextInt();
-		input.nextLine(); // Consumindo linha vazia
 
-		posicao = Arrays.binarySearch(vetorNum, numEscolhido);
 
 		for (int i = 0; i < vetorNum.length; i++) {
+			numEscolhido = input.nextInt();
+			
+			input.nextLine(); // Consumindo linha vazia
+			
+			posicao = Arrays.binarySearch(vetorNum, numEscolhido);
+
 			if (posicao >= 0 && posicao < vetorNum.length) {
 				System.out.println("\nO elemento " + numEscolhido + " existe, e é o " + posicao 
 						+ "º elemento do Array.");
@@ -32,7 +35,6 @@ public class H_1Vetores1 {
 			} else {
 				System.out.println("\nNúmero " + numEscolhido + " não encontrado!");
 				System.out.println("\n----------\n");
-				break;
 			}
 
 			System.out.println("\nDeseja realizar outra verificação? (S/N)");
@@ -43,7 +45,6 @@ public class H_1Vetores1 {
 				break;
 			} else if (continua.equalsIgnoreCase("S")) {
 				System.out.println("\nDigite um número inteiro para verificar sua posição no Array.");
-				numEscolhido = input.nextInt();
 			}
 		}
 
