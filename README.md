@@ -9,8 +9,8 @@ Esses exercícios fazem parte do processo de aprendizado em programação Java, 
 
 ## Conhecimentos Adquiridos até o Momento
 
-- **Terminais CMD** e **GitBash**.
-- **Git** e **GitHub**.
+- **Terminais** `CMD` e `GitBash`.
+- `Git` e `GitHub`.
 - **Operadores:** `aritméticos`, `unários`, `relacionais` e `lógicos`.
 - **Laços Condicionais:** `if-else`, `while`, `do-while`.
 - **Laços de Repetição:** `for` e `switch-case`.
