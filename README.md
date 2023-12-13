@@ -16,6 +16,7 @@ Esses exercícios fazem parte do processo de aprendizado em programação Java, 
 - **Laços de Repetição:** `for` e `switch-case`.
 - **Arrays:** `vetores` e `matrizes`.
 - **Iterator** e **Collections** `ArrayList` e `Set`.
+- **Estruturas de Dados** Lineares (`Array`, `Linked List`, `Stack` e `Queue`) e Não-Lineares (`Graph` e `Set`).
 
 ## Projetos do Repositório
 
@@ -29,6 +30,7 @@ Esses exercícios fazem parte do processo de aprendizado em programação Java, 
 - **Filtro de Animais:** `Filtrar animais` com base em organograma de categorias.
 - **Manipulação de Arrays:** `ordenação com .sort`, `busca de valor em vetor`, `transformação de matriz em vetor`.
 - **Iteração em Collections:** `Ordenar elementos com ArrayList.sort(), Set, Iterator e .hasNext();`, `Buscar elementos em ArrayList e Set com .contains() e retornar índice com .indexOf().`
+- **Uso de Estruturas de Dados**: `Queue: Adicionar e remover clientes de fila de atendimento` e `Stack: Adicionar e remover livros de pilha de livros.`
 
 ## Contato
 
