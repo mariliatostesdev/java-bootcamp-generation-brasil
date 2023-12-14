@@ -11,9 +11,9 @@ public class A_OlaMundo {
 		// logo, o "leia" é o scanner agora
 		
 		final int numero = 3;//
-		String nome = "Lauane Gonçalves";
-		int idade = 28;
-		float altura = (float) 1.60;
+		String nome = "Marília Tostes";
+		int idade = 25;
+		float altura = (float) 1.51;
 		
 		System.out.println("\n\tMeu nome é: " + nome);
 		System.out.println("\n\tEu tenho: " + idade + " ano(s) de vida");
